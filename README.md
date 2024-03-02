@@ -16,7 +16,7 @@ A. Rangkuman Vidio Tugas Algoritma Struktur Data Simple Search Dan Binary
 7.)  Binary membutuhkan lebih sedikit langkah dibandingkan dengan Simple Search.
 
 
-A. Rangkuman Vidio Tugas Algoritma Struktur Data Running Time
+B. Rangkuman Vidio Tugas Algoritma Struktur Data Running Time
 
 1.)  Running Time adalah waktu yang dibutuhkan oleh suatu algoritma untuk menyelesaikan tugasnya.
 
